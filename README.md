@@ -2,7 +2,7 @@
 
 ## Definition of Leverage
 
-[leverage](./images/leverage.png)
+![leverage](./images/leverage.png)
 
 Leverage is the return on investment (ROI) for the effort that’s put in.
 
