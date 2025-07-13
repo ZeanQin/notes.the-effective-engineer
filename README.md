@@ -1,4 +1,4 @@
-# Notes
+# Reading notes
 
 ## Definition of Leverage
 
@@ -21,3 +21,7 @@ Ask the following questions:
 - How can I increase the value produced by this activity?
   - Sharing the knowledge
 - Is there something else that I could spend my time on that would produce more value?
+
+## References
+
+- [The Effective Engineer](https://www.effectiveengineer.com) book
